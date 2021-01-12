@@ -12,7 +12,6 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
 
 ## Install
 
